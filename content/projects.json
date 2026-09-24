@@ -1,0 +1,436 @@
+[
+ {
+  "id": 4723,
+  "slug": "hive-high-interactive-virtual-environment-for-the-built-environment",
+  "date": "2020-11-18T16:09:01",
+  "modified": "2025-02-24T14:12:47",
+  "image": null,
+  "areas": [
+   "augmented-virtual-reality"
+  ]
+ },
+ {
+  "id": 4716,
+  "slug": "digital-eye-laser-scanning-technologies-to-support-construction-control",
+  "date": "2020-11-18T15:58:37",
+  "modified": "2023-10-06T16:14:17",
+  "image": {
+   "src": "/media/2020/11/builtcolab60.webp",
+   "alt": "builtcolab60",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 7548,
+  "slug": "digi-twin",
+  "date": "2021-10-11T18:33:36",
+  "modified": "2024-11-19T14:22:28",
+  "image": {
+   "src": "/media/2021/10/digitransition.webp",
+   "alt": "digitransition",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "bim-and-point-clouds"
+  ]
+ },
+ {
+  "id": 7539,
+  "slug": "cert-bim",
+  "date": "2021-10-11T18:01:37",
+  "modified": "2021-10-11T18:41:26",
+  "image": {
+   "src": "/media/2021/10/certbim.webp",
+   "alt": "CertBIM Normalização para BIM",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "bim-and-point-clouds"
+  ]
+ },
+ {
+  "id": 8302,
+  "slug": "digitt",
+  "date": "2022-02-10T11:42:47",
+  "modified": "2023-10-09T11:17:13",
+  "image": {
+   "src": "/media/2022/02/digitt.webp",
+   "alt": "DigiTT",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 6364,
+  "slug": "automation-digital-production-optimization",
+  "date": "2021-01-25T16:48:38",
+  "modified": "2024-11-19T14:24:13",
+  "image": {
+   "src": "/media/2021/01/automation-didital-productiom-automation-builcolab-1.webp",
+   "alt": "otimização da digitalização para a construção com a solução AUTOMATION do BUILT CoLAB",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 4722,
+  "slug": "smile-buildings-intelligence-smart-energy-and-management-optimization-for-buildings",
+  "date": "2020-11-18T16:07:25",
+  "modified": "2023-10-09T11:50:55",
+  "image": {
+   "src": "/media/2020/10/builtcolab20.webp",
+   "alt": "builtcolab20",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 7084,
+  "slug": "iotask-iot-solution",
+  "date": "2021-05-27T12:19:50",
+  "modified": "2024-11-19T14:26:18",
+  "image": {
+   "src": "/media/2021/05/iotask-builcolab.webp",
+   "alt": "iotask builtcolab",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 4184,
+  "slug": "optimize-design-to-construction-workflows",
+  "date": "2020-11-17T11:43:33",
+  "modified": "2024-11-19T14:30:56",
+  "image": {
+   "src": "/media/2020/11/builtcolab75.webp",
+   "alt": "builtcolab75",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "bim-and-point-clouds"
+  ]
+ },
+ {
+  "id": 9168,
+  "slug": "missao-interface-builcolab",
+  "date": "2023-10-04T13:10:30",
+  "modified": "2025-02-18T09:44:45",
+  "image": {
+   "src": "/media/2023/10/missao-interface-colab-3.webp",
+   "alt": "missão interface colab 3",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": []
+ },
+ {
+  "id": 11666,
+  "slug": "adapt4ce",
+  "date": "2025-08-07T10:55:51",
+  "modified": "2026-06-16T14:23:54",
+  "image": {
+   "src": "/media/2025/08/adapt4ce-website.webp",
+   "alt": "ADAPT4CE",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 11588,
+  "slug": "uts-universal-timber-slab",
+  "date": "2025-07-18T09:46:07",
+  "modified": "2025-12-16T16:20:44",
+  "image": {
+   "src": "/media/2025/07/projeto-uts-universal-timber-slab.webp",
+   "alt": "Projeto UTS - Universal Timber Slab",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "bim-and-point-clouds",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 11250,
+  "slug": "communicity-d-power",
+  "date": "2025-04-10T17:51:54",
+  "modified": "2025-07-04T12:02:54",
+  "image": {
+   "src": "/media/2025/04/communicity-d-power-2.webp",
+   "alt": "CommuniCity d-power_2",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 11190,
+  "slug": "communicity-coolscape",
+  "date": "2025-04-03T10:22:48",
+  "modified": "2025-07-04T12:13:32",
+  "image": {
+   "src": "/media/2025/04/communicity-coolscape-2.webp",
+   "alt": "CommuniCity CoolScape",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 11191,
+  "slug": "communicity-green-lessons",
+  "date": "2025-04-03T10:19:48",
+  "modified": "2025-07-04T12:10:00",
+  "image": {
+   "src": "/media/2025/04/communicity-green-lessons.webp",
+   "alt": "CommuniCity Green Lessons",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 11121,
+  "slug": "communicity-minus-e",
+  "date": "2025-03-21T15:51:06",
+  "modified": "2025-07-04T12:08:18",
+  "image": {
+   "src": "/media/2025/03/communicity-minus-e.webp",
+   "alt": "CommuniCity Minus-E",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "automation-and-artificial-intelligence",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 10887,
+  "slug": "c2o-construction-to-zero",
+  "date": "2025-02-10T16:24:23",
+  "modified": "2025-02-10T16:24:24",
+  "image": {
+   "src": "/media/2025/02/c20-projetos.webp",
+   "alt": "c20_projetos",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "industry-decarbonization-and-reporting"
+  ]
+ },
+ {
+  "id": 10677,
+  "slug": "solos-rochas-contaminados",
+  "date": "2024-12-12T16:04:44",
+  "modified": "2024-12-12T16:04:46",
+  "image": {
+   "src": "/media/2024/12/projeto-solos-e-rochas-contaminados.webp",
+   "alt": "projeto solos e rochas contaminados",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "industry-decarbonization-and-reporting",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 10421,
+  "slug": "b4pic",
+  "date": "2024-11-18T17:39:01",
+  "modified": "2026-09-02T10:31:48",
+  "image": {
+   "src": "/media/2024/11/b4pic-built4peolpe-innovation-cluster.webp",
+   "alt": "B4PIC built4peolpe innovation cluster",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 10910,
+  "slug": "criarte",
+  "date": "2025-02-24T14:15:02",
+  "modified": "2026-05-13T13:00:27",
+  "image": {
+   "src": "/media/2025/02/projeto-criarte.webp",
+   "alt": "Projeto CRIARTE",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "augmented-virtual-reality",
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 10351,
+  "slug": "target-x",
+  "date": "2024-10-30T15:36:37",
+  "modified": "2025-06-09T11:14:50",
+  "image": {
+   "src": "/media/2024/10/target-x.webp",
+   "alt": "Target-x",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "augmented-virtual-reality",
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 9969,
+  "slug": "digitalbuilt",
+  "date": "2024-06-20T17:24:48",
+  "modified": "2025-01-09T16:46:35",
+  "image": {
+   "src": "/media/2024/06/digitalbuilt.webp",
+   "alt": "digitalbuilt",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "bim-and-point-clouds"
+  ]
+ },
+ {
+  "id": 9842,
+  "slug": "intent",
+  "date": "2024-05-29T11:35:05",
+  "modified": "2024-05-29T11:37:47",
+  "image": {
+   "src": "/media/2024/05/projeto-intent.webp",
+   "alt": "Projeto Intent",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 9178,
+  "slug": "sustainable-stone-by-portugal",
+  "date": "2023-10-04T14:59:43",
+  "modified": "2024-11-19T14:37:38",
+  "image": {
+   "src": "/media/2023/10/sustainable-stone-by-portugal-2.webp",
+   "alt": "Sustainable Stone by Portugal_2",
+   "width": 1200,
+   "height": 630
+  },
+  "areas": [
+   "augmented-virtual-reality",
+   "digital-twin-iot"
+  ]
+ },
+ {
+  "id": 4183,
+  "slug": "simplify-digital-platform-elicensing-eprocurement-platform-for-buildings-processes",
+  "date": "2020-11-17T11:42:10",
+  "modified": "2024-11-19T14:30:07",
+  "image": null,
+  "areas": [
+   "bim-and-point-clouds",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 4157,
+  "slug": "building-life-design-technologies-life-cycle-and-circular-bim-based-design",
+  "date": "2020-11-17T10:48:35",
+  "modified": "2023-10-06T11:48:40",
+  "image": {
+   "src": "/media/2020/11/builtcolab76.webp",
+   "alt": "builtcolab76",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": [
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 9190,
+  "slug": "circularidade-na-construcao",
+  "date": "2023-10-04T17:37:50",
+  "modified": "2024-11-20T10:33:26",
+  "image": {
+   "src": "/media/2023/10/circularidade-na-construcao-01.webp",
+   "alt": "Circularidade na Construção",
+   "width": 8000,
+   "height": 4500
+  },
+  "areas": [
+   "industry-decarbonization-and-reporting",
+   "sustainable-buildings-and-cities"
+  ]
+ },
+ {
+  "id": 9271,
+  "slug": "revconstruction",
+  "date": "2023-10-09T15:24:18",
+  "modified": "2024-11-19T14:38:15",
+  "image": {
+   "src": "/media/2023/10/revconstruction.webp",
+   "alt": "REVConstruction",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": []
+ },
+ {
+  "id": 9281,
+  "slug": "foc-future-of-construction",
+  "date": "2023-10-09T15:39:01",
+  "modified": "2024-11-19T14:38:33",
+  "image": {
+   "src": "/media/2023/10/foc-future-of-construction.webp",
+   "alt": "FoC – Future of Construction",
+   "width": 1920,
+   "height": 1080
+  },
+  "areas": []
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "slug": "augmented-virtual-reality",
+  "name": "Augmented & Virtual Reality",
+  "count": 4
+ },
+ {
+  "slug": "automation-and-artificial-intelligence",
+  "name": "Automation & Artificial Intelligence",
+  "count": 8
+ },
+ {
+  "slug": "bim-and-point-clouds",
+  "name": "BIM & Point Clouds",
+  "count": 6
+ },
+ {
+  "slug": "digital-twin-iot",
+  "name": "Digital Twin & IoT",
+  "count": 9
+ },
+ {
+  "slug": "industry-decarbonization-and-reporting",
+  "name": "Industry Decarbonization & Reporting",
+  "count": 3
+ },
+ {
+  "slug": "sustainable-buildings-and-cities",
+  "name": "Sustainable Buildings & Cities",
+  "count": 11
+ }
+]
