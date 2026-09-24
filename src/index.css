@@ -1,0 +1,155 @@
+@import 'tailwindcss';
+
+/*
+ * Design system BUILT CoLAB.
+ * Cores de marca fixas + tokens semânticos que mudam no modo escuro.
+ * Os componentes usam só os semânticos (bg-surface, text-ink, border-line…),
+ * por isso não precisam de variantes dark:.
+ */
+:root {
+  --surface: #ffffff;
+  --soft: #f2f6fe;
+  --card: #ffffff;
+  --line: #e1e8f7;
+  --ink: #0b1641;
+  --muted: #56608a;
+  --shadow-color: rgb(19 36 102 / 0.28);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --surface: #070e2c;
+    --soft: #0c1640;
+    --card: #111d4d;
+    --line: #1f2c66;
+    --ink: #eef2ff;
+    --muted: #a3aed6;
+    --shadow-color: rgb(0 0 0 / 0.6);
+  }
+}
+
+@theme {
+  --color-navy: #0b1641;
+  --color-navy-2: #132466;
+  --color-blue: #2355e8;
+  --color-blue-2: #3d7bff;
+  --color-cyan: #1ca7ec;
+  --color-green: #22b07d;
+  --color-mist: #b9c4ee;
+
+  --font-display: 'Sora', 'Segoe UI', system-ui, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+
+  --shadow-card: 0 18px 50px -24px var(--shadow-color);
+
+  --animate-ticker: ticker 40s linear infinite;
+  @keyframes ticker {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+@theme inline {
+  --color-surface: var(--surface);
+  --color-soft: var(--soft);
+  --color-card: var(--card);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-surface font-sans text-ink antialiased;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display;
+    text-wrap: balance;
+  }
+  :focus-visible {
+    @apply outline-3 outline-offset-3 outline-cyan;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Grelha de papel técnico, usada nos cabeçalhos. */
+  .blueprint {
+    background-image:
+      linear-gradient(var(--line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--line) 1px, transparent 1px);
+    background-size: 56px 56px;
+    background-position: center;
+  }
+
+  /* Conteúdo que vem do WordPress. */
+  .prose-cms {
+    @apply max-w-[70ch] text-[1.05rem] leading-relaxed text-ink;
+  }
+  .prose-cms > * + * {
+    @apply mt-5;
+  }
+  .prose-cms h2 {
+    @apply mt-12 text-2xl font-bold md:text-3xl;
+  }
+  .prose-cms h3 {
+    @apply mt-10 text-xl font-bold;
+  }
+  .prose-cms h4,
+  .prose-cms h5,
+  .prose-cms h6 {
+    @apply mt-8 font-display text-lg font-semibold;
+  }
+  .prose-cms a {
+    @apply font-semibold text-blue underline decoration-blue/30 underline-offset-4 hover:decoration-blue;
+  }
+  .prose-cms ul {
+    @apply list-disc space-y-2 pl-6 marker:text-cyan;
+  }
+  .prose-cms ol {
+    @apply list-decimal space-y-2 pl-6 marker:font-semibold marker:text-blue;
+  }
+  .prose-cms img {
+    @apply h-auto max-w-full rounded-xl;
+  }
+  .prose-cms figcaption {
+    @apply mt-2 text-sm text-muted;
+  }
+  .prose-cms blockquote {
+    @apply border-l-4 border-cyan pl-5 font-display text-xl;
+  }
+  .prose-cms iframe {
+    @apply aspect-video h-auto w-full rounded-xl;
+  }
+  .prose-cms table {
+    @apply block w-full overflow-x-auto text-sm;
+  }
+  .prose-cms td,
+  .prose-cms th {
+    @apply border-b border-line px-3 py-2 text-left align-top;
+  }
+  .prose-cms strong {
+    @apply font-bold;
+  }
+  .prose-cms hr {
+    @apply my-10 border-line;
+  }
+}
