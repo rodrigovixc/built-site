@@ -1,0 +1,27 @@
+# Dependências e builds
+node_modules/
+dist/
+dist-ssr/
+*.tsbuildinfo
+.vite/
+
+# Gerado a partir de content/ por scripts/build-data.mjs (corre antes de dev e build)
+src/data/
+public/content/
+
+# Trabalho temporário da tradução (scripts/i18n-todo.mjs)
+.i18n-batches/
+
+# Ambiente e ferramentas locais
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.claude/
