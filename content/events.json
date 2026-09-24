@@ -1,0 +1,702 @@
+[
+ {
+  "id": 12433,
+  "slug": "ubi-session-milan",
+  "date": "2026-08-27T15:08:33",
+  "modified": "2026-08-27T15:08:34",
+  "image": {
+   "src": "/media/2026/08/invitation-ubi-sessions-milan-final.webp",
+   "alt": "Invitation UBI Sessions Milan_final",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2026-09-21",
+  "location": "Associazione Italiana Commercio Estero, Corso Venezia 47, Milan"
+ },
+ {
+  "id": 11891,
+  "slug": "acao-capacitacao-bim-nivel-introdutorio-nov-2025-2",
+  "date": "2026-01-08T15:43:57",
+  "modified": "2026-01-08T15:44:54",
+  "image": {
+   "src": "/media/2026/01/capacitacao-bim-3aedicao-mar2026-website.webp",
+   "alt": "Capacitacao_BIM_3aedicao_mar2026_website",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2026-03-09",
+  "location": "On-line"
+ },
+ {
+  "id": 11888,
+  "slug": "acao-capacitacao-acv-introdutorio-nov-2025-2",
+  "date": "2026-01-08T15:41:44",
+  "modified": "2026-01-08T15:41:46",
+  "image": {
+   "src": "/media/2026/01/capacitacao-acv-3aedicao-mar2026-website.webp",
+   "alt": "Capacitacao_ACV_3aedicao_mar2026_website",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2026-03-10",
+  "location": "On-line"
+ },
+ {
+  "id": 11746,
+  "slug": "conferencia-final-do-c2o",
+  "date": "2025-09-05T12:09:45",
+  "modified": "2025-09-05T12:09:46",
+  "image": {
+   "src": "/media/2025/09/convite-conferencia-final-c20.webp",
+   "alt": "Convite Conferencia Final C20",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2025-10-30",
+  "location": "Centro de Congressos do CCB - Lisboa"
+ },
+ {
+  "id": 11727,
+  "slug": "acao-capacitacao-acv-introdutorio-nov-2025",
+  "date": "2025-09-01T12:16:11",
+  "modified": "2025-09-01T12:17:29",
+  "image": {
+   "src": "/media/2025/09/acv-introdutorio-nov-2025-site.webp",
+   "alt": "ACV introdutorio nov 2025_ site",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2025-11-11",
+  "location": "On-line"
+ },
+ {
+  "id": 11724,
+  "slug": "acao-capacitacao-bim-nivel-introdutorio-nov-2025",
+  "date": "2025-09-01T12:14:58",
+  "modified": "2025-09-05T11:56:35",
+  "image": {
+   "src": "/media/2025/09/bim-introdutorio-nov-2025-site.webp",
+   "alt": "BIM introdutorio nov 2025_site",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2025-11-17",
+  "location": "On-line"
+ },
+ {
+  "id": 11138,
+  "slug": "acao-capacitacao-acv-introdutorio",
+  "date": "2025-03-24T09:58:35",
+  "modified": "2025-03-24T09:58:36",
+  "image": {
+   "src": "/media/2025/03/capacitacao-acv-digitalbuilt-site-builtcolab.webp",
+   "alt": "capacitação ACV digitalbuilt site builtcolab",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2025-05-06",
+  "location": "On-line"
+ },
+ {
+  "id": 11135,
+  "slug": "acao-capacitacao-bim-nivel-introdutorio",
+  "date": "2025-03-24T09:50:36",
+  "modified": "2025-03-24T09:50:58",
+  "image": {
+   "src": "/media/2025/03/capacitacao-bim-digitalbuilt-site-builtcolab.webp",
+   "alt": "capacitação BIM digitalbuilt site builtcolab",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2025-05-06",
+  "location": "On-line"
+ },
+ {
+  "id": 10414,
+  "slug": "conferencia-abertura-construction-to-zero",
+  "date": "2024-11-14T10:15:45",
+  "modified": "2024-11-14T10:15:47",
+  "image": {
+   "src": "/media/2024/11/c20-conf-nov24-vf.webp",
+   "alt": "c20-conf-nov24-vf",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2024-11-26",
+  "location": "AICCOPN - Porto"
+ },
+ {
+  "id": 10407,
+  "slug": "solos-rochas-contaminados-sessao-de-encerramento",
+  "date": "2024-11-12T18:26:42",
+  "modified": "2024-11-12T18:26:44",
+  "image": {
+   "src": "/media/2024/11/builtcolab-aqs-banners-sfinal.webp",
+   "alt": "builtcolab-aqs-banners-sfinal",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2024-12-12",
+  "location": "Online"
+ },
+ {
+  "id": 10291,
+  "slug": "entidades-de-remediacao-de-solos",
+  "date": "2024-09-19T12:39:37",
+  "modified": "2024-10-02T11:27:13",
+  "image": {
+   "src": "/media/2024/09/builtcolab-solos-rochas-contaminados-ac3-01.webp",
+   "alt": "builtcolab-solos-rochas-contaminados-ac3-01",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2024-10-31",
+  "location": "Online"
+ },
+ {
+  "id": 10288,
+  "slug": "empresas-de-construcao-e-de-demolicao",
+  "date": "2024-09-19T12:28:28",
+  "modified": "2024-10-02T11:26:49",
+  "image": {
+   "src": "/media/2024/09/builtcolab-solos-rochas-contaminados-ac2-01.webp",
+   "alt": "builtcolab-solos-rochas-contaminados-ac2-01",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2024-10-17",
+  "location": "Online"
+ },
+ {
+  "id": 10285,
+  "slug": "projetistas-donos-de-obra-e-reguladores",
+  "date": "2024-09-19T12:21:09",
+  "modified": "2024-09-26T17:39:11",
+  "image": {
+   "src": "/media/2024/09/builtcolab-solos-rochas-contaminados-ac1-01.webp",
+   "alt": "builtcolab-solos-rochas-contaminados-ac1-01",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2024-10-03",
+  "location": "Online"
+ },
+ {
+  "id": 9702,
+  "slug": "apresentacao-publica-digitalbuilt",
+  "date": "2024-04-15T16:44:47",
+  "modified": "2024-04-18T17:27:31",
+  "image": {
+   "src": "/media/2024/04/apresentacao-publica-digitalbuilt.webp",
+   "alt": "apresentação publica digitalbuilt",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2024-04-30",
+  "location": "Lisboa"
+ },
+ {
+  "id": 9061,
+  "slug": "conferencia-final-a-revolucao-da-construcao-digital-em-portugal",
+  "date": "2023-06-12T08:17:02",
+  "modified": "2023-06-28T11:26:49",
+  "image": {
+   "src": "/media/2023/06/header.webp",
+   "alt": "Header",
+   "width": 1200,
+   "height": 670
+  },
+  "startsAt": "2023-06-27",
+  "location": "Auditório Mariano Gago - Pavilhão do Conhecimento | Lisboa"
+ },
+ {
+  "id": 9022,
+  "slug": "workshops-demonstradores-do-revconstruction",
+  "date": "2023-05-16T12:01:49",
+  "modified": "2023-05-16T12:01:50",
+  "image": {
+   "src": "/media/2023/05/734def80-67ca-e7de-34fd-ce5faf1844fe.webp",
+   "alt": "734def80-67ca-e7de-34fd-ce5faf1844fe",
+   "width": 1200,
+   "height": 670
+  },
+  "startsAt": "2023-05-24",
+  "location": "Porto - ANJE | Lisboa - Sede da OE"
+ },
+ {
+  "id": 8949,
+  "slug": "desafios-da-twin-transition",
+  "date": "2023-03-02T13:59:34",
+  "modified": "2023-03-02T14:18:54",
+  "image": {
+   "src": "/media/2023/03/sessao-tecnica-desafios-da-twin-transition.webp",
+   "alt": "sessao tecnica desafios da Twin Transition",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2023-03-22",
+  "location": "Sede da OERN - Porto"
+ },
+ {
+  "id": 8939,
+  "slug": "workshop-bimsig",
+  "date": "2023-02-27T09:50:03",
+  "modified": "2023-02-28T14:26:27",
+  "image": {
+   "src": "/media/2023/02/workshop-bim-sig.webp",
+   "alt": "1º workshop BIM/SIG",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2023-03-03",
+  "location": "Fórum Lisboa"
+ },
+ {
+  "id": 8872,
+  "slug": "apresentacao-acao-para-a-circularidade-na-construcao",
+  "date": "2023-01-11T10:44:49",
+  "modified": "2023-01-13T09:28:03",
+  "image": {
+   "src": "/media/2023/01/acao-para-a-circularidade-na-construcao.webp",
+   "alt": "Sessão de Apresentaçao do plano Ação para a Circularidade na Construção",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2023-01-26",
+  "location": "Auditório do IMPIC | Lisboa"
+ },
+ {
+  "id": 8825,
+  "slug": "conferencia-final-foc",
+  "date": "2022-11-24T10:13:33",
+  "modified": "2022-11-24T19:24:10",
+  "image": {
+   "src": "/media/2022/11/conferencia-futuro-construcao-sustentavel.webp",
+   "alt": "Conferencia Futuro da Construção Sustentavel",
+   "width": 2412,
+   "height": 1266
+  },
+  "startsAt": "2022-12-15",
+  "location": "Alfândega do Porto"
+ },
+ {
+  "id": 8743,
+  "slug": "conferencia-intermedia-revconstruction",
+  "date": "2022-08-17T12:11:36",
+  "modified": "2022-08-25T16:00:43",
+  "image": {
+   "src": "/media/2022/08/conferencia-intermedia-rev-construction.webp",
+   "alt": "conferencia intermedia rev@construction",
+   "width": 1024,
+   "height": 643
+  },
+  "startsAt": "2022-09-06",
+  "location": "Centro Cultural Vila Flor | Guimarães"
+ },
+ {
+  "id": 8670,
+  "slug": "workshop-impressao-digital-carbono",
+  "date": "2022-07-05T10:40:35",
+  "modified": "2022-07-05T10:40:37",
+  "image": {
+   "src": "/media/2022/07/workshop-carbonhandprint-01.webp",
+   "alt": "Workshop Carbon Hand Print",
+   "width": 8000,
+   "height": 5334
+  },
+  "startsAt": "2022-07-13",
+  "location": "On-line"
+ },
+ {
+  "id": 8633,
+  "slug": "conferencia-intermedia-foc",
+  "date": "2022-06-30T12:28:12",
+  "modified": "2022-07-18T16:37:31",
+  "image": {
+   "src": "/media/2022/06/foc-conf-intermedia-web-01.webp",
+   "alt": "Conferencia Intermedia FoC",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-07-19",
+  "location": "Leiria | Auditório da NERLEI"
+ },
+ {
+  "id": 8500,
+  "slug": "workshop-foc-economia-circular",
+  "date": "2022-05-12T17:56:20",
+  "modified": "2022-05-12T17:56:22",
+  "image": {
+   "src": "/media/2022/05/foc-webinar-mai22-small.webp",
+   "alt": "workshop economia circular",
+   "width": 2508,
+   "height": 1672
+  },
+  "startsAt": "2022-05-19",
+  "location": "On-line"
+ },
+ {
+  "id": 8430,
+  "slug": "acao-capacitacao-gestao-de-residuos-lisboa",
+  "date": "2022-04-19T11:44:06",
+  "modified": "2022-04-19T11:44:08",
+  "image": {
+   "src": "/media/2022/04/cc-sites-lisboa-01.webp",
+   "alt": "Gestão de Residuos LNEC",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-05-10",
+  "location": "Lisboa | Auditório do LNEC"
+ },
+ {
+  "id": 8427,
+  "slug": "workshop-living-labs",
+  "date": "2022-04-19T10:32:09",
+  "modified": "2022-04-29T07:34:50",
+  "image": {
+   "src": "/media/2022/04/cc-sites-inovacao-2-01.webp",
+   "alt": "workshop living labs",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-04-28",
+  "location": "On-line"
+ },
+ {
+  "id": 8424,
+  "slug": "workshop-foc-modularidade",
+  "date": "2022-04-18T10:56:33",
+  "modified": "2022-04-29T07:39:29",
+  "image": {
+   "src": "/media/2022/04/como-a-modularidade-pode-acelerar-a-id-no-setor-aec-scaled.webp",
+   "alt": "Modularidade",
+   "width": 2560,
+   "height": 1707
+  },
+  "startsAt": "2022-04-20",
+  "location": "On-line"
+ },
+ {
+  "id": 8374,
+  "slug": "acao-capacitacao-gestao-de-residuos-porto",
+  "date": "2022-03-18T10:02:42",
+  "modified": "2022-03-18T10:02:45",
+  "image": {
+   "src": "/media/2022/03/cc-sites-ac-porto-01.webp",
+   "alt": "ação de capacitação em gestao de residuos no porto",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-03-25",
+  "location": "Porto | Auditório da AICCOPN"
+ },
+ {
+  "id": 8371,
+  "slug": "acao-capacitacao-gestao-residuos-leiria",
+  "date": "2022-03-18T09:48:55",
+  "modified": "2022-03-18T09:48:57",
+  "image": {
+   "src": "/media/2022/03/cc-sites-ac-leiria-01.webp",
+   "alt": "Ação de Capacitação Resíduos em Leiria",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-03-24",
+  "location": "Leiria | Auditório Serviços Centrais IP Leiria"
+ },
+ {
+  "id": 8359,
+  "slug": "workshop-foc-descarbonizacao",
+  "date": "2022-03-07T14:47:39",
+  "modified": "2022-03-07T14:47:41",
+  "image": {
+   "src": "/media/2022/03/foc-webinar-2-smal-01.webp",
+   "alt": "workshop descarbonização",
+   "width": 1920,
+   "height": 1280
+  },
+  "startsAt": "2022-03-09",
+  "location": "On-line"
+ },
+ {
+  "id": 8344,
+  "slug": "acao-capacitacao-residuos-de-construcao-e-demolicao",
+  "date": "2022-02-25T12:55:34",
+  "modified": "2022-02-25T12:55:36",
+  "image": {
+   "src": "/media/2022/02/cc-sites-ac4-01.webp",
+   "alt": "resíduos de construção e demolição",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-03-03",
+  "location": "On-line"
+ },
+ {
+  "id": 8339,
+  "slug": "workshop-id-no-setor-aec",
+  "date": "2022-02-23T14:55:59",
+  "modified": "2022-02-23T15:08:53",
+  "image": {
+   "src": "/media/2022/02/foc-evento-1.webp",
+   "alt": "workshop I&D no setor AEC",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2022-03-02",
+  "location": "On-line"
+ },
+ {
+  "id": 8334,
+  "slug": "acao-capacitacao-compras-ecologicas",
+  "date": "2022-02-21T11:54:13",
+  "modified": "2022-02-22T09:23:45",
+  "image": {
+   "src": "/media/2022/02/cc-sites-ac3-01.webp",
+   "alt": "compras ecológicas",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-02-24",
+  "location": "On-line"
+ },
+ {
+  "id": 8322,
+  "slug": "importancia-da-avaliacao-de-ciclo-de-vida",
+  "date": "2022-02-14T10:03:15",
+  "modified": "2022-02-14T10:08:19",
+  "image": {
+   "src": "/media/2022/02/cc-sites-ac2-01.webp",
+   "alt": "importância da avaliação de ciclo de vida",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-02-18",
+  "location": "On-line"
+ },
+ {
+  "id": 8289,
+  "slug": "acao-de-capacitacao-apa",
+  "date": "2022-02-04T11:45:50",
+  "modified": "2022-02-04T11:47:44",
+  "image": {
+   "src": "/media/2022/02/acao-capacitacao-1-apa-websites-01.webp",
+   "alt": "Açao de Capacitação APA",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-02-08",
+  "location": "On-line"
+ },
+ {
+  "id": 8035,
+  "slug": "sistema-de-classificacao-da-construcao-secclass",
+  "date": "2022-01-31T12:51:38",
+  "modified": "2022-01-31T12:51:40",
+  "image": {
+   "src": "/media/2022/01/sistema-de-classificacao-da-construcao-secclass.webp",
+   "alt": "Sistema de Classificação da Construção SECClasS",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2022-02-10",
+  "location": "On-line"
+ },
+ {
+  "id": 8017,
+  "slug": "inovacao-construcao-mais-circular",
+  "date": "2022-01-27T12:48:10",
+  "modified": "2022-01-31T16:33:05",
+  "image": {
+   "src": "/media/2022/01/workshop-inovacao-na-circularidade.webp",
+   "alt": "Workshop Inovacao na Circularidade",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-02-03",
+  "location": "On-line"
+ },
+ {
+  "id": 7997,
+  "slug": "workshop-incorporacao-de-materiais-reciclados-no-setor-da-construcao",
+  "date": "2022-01-19T11:48:08",
+  "modified": "2022-01-19T11:48:10",
+  "image": {
+   "src": "/media/2022/01/cc-sites-ws2-01.webp",
+   "alt": "Workshop Incorporação de Materiais Reciclados na construção",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-01-27",
+  "location": "On-line"
+ },
+ {
+  "id": 7925,
+  "slug": "workshop-economia-circular",
+  "date": "2022-01-05T12:31:41",
+  "modified": "2022-01-05T12:31:43",
+  "image": {
+   "src": "/media/2022/01/workshop-economia-circular-01.webp",
+   "alt": "workshop economia circular-01",
+   "width": 5000,
+   "height": 2625
+  },
+  "startsAt": "2022-01-11",
+  "location": "On-line"
+ },
+ {
+  "id": 7667,
+  "slug": "conferencia-de-arranque-rev-construction",
+  "date": "2021-10-28T17:41:36",
+  "modified": "2021-11-09T14:49:13",
+  "image": {
+   "src": "/media/2021/10/conferencia-de-arranque-rev-.webp",
+   "alt": "conferencia de arranque REV@",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-11-11",
+  "location": "On-Line"
+ },
+ {
+  "id": 7461,
+  "slug": "evento-sistema-de-classificacao-para-a-construcao",
+  "date": "2021-09-24T14:46:36",
+  "modified": "2021-09-24T14:46:38",
+  "image": {
+   "src": "/media/2021/09/evento-sistema-de-classificacao-para-a-construcao-em-portugal-6outubro.webp",
+   "alt": "Evento “Sistema de Classificação para a Construção em Portugal – estado actual e trabalho futuro”",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-10-06",
+  "location": "On-Line"
+ },
+ {
+  "id": 7228,
+  "slug": "a-obrigatoriedade-do-bim-na-construcao",
+  "date": "2021-07-13T15:02:43",
+  "modified": "2021-07-13T15:11:13",
+  "image": {
+   "src": "/media/2021/07/techonbuilt-webtalk-series-site-bim.webp",
+   "alt": "A Obrigatoriedade do BIM na Construção",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-07-28",
+  "location": "LIVE YOUTUBE BUILT COLAB"
+ },
+ {
+  "id": 7135,
+  "slug": "green-deal-e-o-ambiente-construido",
+  "date": "2021-06-15T15:30:39",
+  "modified": "2021-06-28T09:53:21",
+  "image": {
+   "src": "/media/2021/06/techonbuilt-webtalk-series-green-deal-e-o-ambiente-construido.webp",
+   "alt": "techonbuilt webtalk series - green deal e o ambiente construido",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-06-29",
+  "location": "Live YouTube BUILT CoLAB"
+ },
+ {
+  "id": 7132,
+  "slug": "ciclo-de-reflexoes-e-dabates",
+  "date": "2021-06-14T17:02:51",
+  "modified": "2021-06-14T17:02:53",
+  "image": {
+   "src": "/media/2021/06/ciclo-reflexoes-e-debates-bad.webp",
+   "alt": "Ciclo Reflexões e Debates BAD",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-06-16",
+  "location": "Online"
+ },
+ {
+  "id": 7054,
+  "slug": "webinar-desafios-engenharia",
+  "date": "2021-05-19T11:05:46",
+  "modified": "2021-05-19T11:07:59",
+  "image": {
+   "src": "/media/2021/05/webinar-desafios-da-engenharia.webp",
+   "alt": "webinar desafios da engenharia",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-05-26",
+  "location": "Online"
+ },
+ {
+  "id": 6960,
+  "slug": "builtcolab-presente-feira-emprego-ipleiria",
+  "date": "2021-04-19T19:06:41",
+  "modified": "2021-04-19T19:06:44",
+  "image": {
+   "src": "/media/2021/04/emprego-leiria.webp",
+   "alt": "Feria de Emprego IP Leiria",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-04-22",
+  "location": "Evento Virtual"
+ },
+ {
+  "id": 6361,
+  "slug": "guia-bim-nas-autarquias-apresentado-oe-27jan",
+  "date": "2021-01-21T17:10:21",
+  "modified": "2021-01-21T18:12:52",
+  "image": {
+   "src": "/media/2020/11/bim-autarquias-implementacao.webp",
+   "alt": "Guia Implementação BIM nas Autarquias",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2021-01-27",
+  "location": "Online"
+ },
+ {
+  "id": 5830,
+  "slug": "cimeira-tecnologica-india-portugal",
+  "date": "2020-12-04T11:43:55",
+  "modified": "2020-12-04T11:43:56",
+  "image": {
+   "src": "/media/2020/12/cimeira-tecnologica-portugal-india-buitlcolab.webp",
+   "alt": "BUILT CoLAB na Cimeira Tecnológica Portugal India",
+   "width": 1200,
+   "height": 630
+  },
+  "startsAt": "2020-12-07",
+  "location": "Online"
+ },
+ {
+  "id": 5078,
+  "slug": "encontro-ciencia-2020-dinamizou-encontro-de-colabs",
+  "date": "2020-11-20T11:30:16",
+  "modified": "2020-12-09T19:10:25",
+  "image": {
+   "src": "/media/2020/11/encontro-ciencia-2020-2.webp",
+   "alt": "BUILT CoLAB participou no Encontro Ciência 2020",
+   "width": 1080,
+   "height": 1080
+  },
+  "startsAt": "2020-11-03",
+  "location": "Online"
+ },
+ {
+  "id": 5072,
+  "slug": "built-colab-participa-no-9o-forum-estrategico-ptpc-cluster-aec",
+  "date": "2020-11-20T11:21:29",
+  "modified": "2020-12-09T19:14:49",
+  "image": {
+   "src": "/media/2020/11/9forum-ptpc-v3.webp",
+   "alt": "9forum-ptpc-v3",
+   "width": 800,
+   "height": 422
+  },
+  "startsAt": "2020-12-03",
+  "location": "Online"
+ }
+]

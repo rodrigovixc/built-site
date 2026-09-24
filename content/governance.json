@@ -1,0 +1,117 @@
+[
+ {
+  "name": "Mesa da Assembleia Geral",
+  "members": [
+   {
+    "position": "Presidente",
+    "name": "Laura Maria Mello Saraiva Caldeira",
+    "organization": "Laboratório Nacional de Engenharia Civil"
+   },
+   {
+    "position": "Vice-Presidente",
+    "name": "Álvaro Alberto de Matos Ferreira da Cunha",
+    "organization": "Universidade do Porto - Faculdade de Engenharia"
+   },
+   {
+    "position": "Secretário",
+    "name": "Alexandre Gonçalves",
+    "organization": "Instituto Superior Técnico"
+   }
+  ]
+ },
+ {
+  "name": "Conselho Fiscal",
+  "members": [
+   {
+    "position": "Presidente",
+    "name": "Filomena Maria de Carvalho Duarte",
+    "organization": "Plataforma Tecnológica Portuguesa da Construção"
+   },
+   {
+    "position": "ROC",
+    "name": "Teresa Maria da Cunha Soares Martins",
+    "organization": "Santos Vaz, Trigo de Morais & Associados, SROC, Lda."
+   }
+  ]
+ },
+ {
+  "name": "Conselho de Administração",
+  "members": [
+   {
+    "position": "Presidente",
+    "name": "João Miguel Morais Crispim",
+    "organization": "Casais Engenharia e Construção"
+   },
+   {
+    "position": "Vice-Presidente",
+    "name": "Rita Maria Diogo Carvalho Moura",
+    "organization": "Teixeira Duarte Engenharia e Construções, S.A."
+   },
+   {
+    "position": "Vice-Presidente",
+    "name": "Paula Alexandra Baltazar da Costa Alvarenga",
+    "organization": "Mota-Engil, Engenharia, S.A."
+   },
+   {
+    "position": "Vogal Executivo",
+    "name": "Luís Filipe Maia Carneiro",
+    "organization": "INESC TEC - Instituto de Engenharia de Sistemas e Computadores Tecnologia e Ciência"
+   },
+   {
+    "position": "Vogal Executivo",
+    "name": "Ângela Maria Jesus de Sequeira Serra Nunes",
+    "organization": "Secil-Companhia Geral de Cal e Cimento, SA"
+   },
+   {
+    "position": "Vogal não Executivo",
+    "name": "João Pedro da Silva Poças Martins",
+    "organization": "Universidade do Porto"
+   },
+   {
+    "position": "Vogal não Executivo",
+    "name": "Miguel Ângelo Dias Azenha",
+    "organization": "Universidade do Minho"
+   }
+  ]
+ },
+ {
+  "name": "Conselho Consultivo Científico Empresarial",
+  "members": [
+   {
+    "position": "Presidente",
+    "name": "Maria do Rosário da Silva Veiga",
+    "organization": "Laboratório Nacional de Engenharia Civil"
+   },
+   {
+    "position": "Membro",
+    "name": "João Pedro Borges Ferreira",
+    "organization": "Grupo ACA"
+   },
+   {
+    "position": "Membro",
+    "name": "Francisco José Reis da Silva",
+    "organization": "BIMMS"
+   },
+   {
+    "position": "Membro",
+    "name": "António Lorena",
+    "organization": "3drivers"
+   },
+   {
+    "position": "Membro",
+    "name": "Ricardo de Jesus Gomes",
+    "organization": "Instituto Politécnico de Leiria"
+   },
+   {
+    "position": "Membro",
+    "name": "Alexandre Gonçalves",
+    "organization": "Instituto Superior Técnico"
+   },
+   {
+    "position": "Membro",
+    "name": "André Ricardo de Brito Caiado",
+    "organization": "Contacto Atlântico, Lda."
+   }
+  ]
+ }
+]

@@ -1,0 +1,210 @@
+[
+ {
+  "id": 3898,
+  "name": "João Neves Moutinho",
+  "role": "Director",
+  "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-moutinho-7514b31/",
+  "orcid": "https://orcid.org/0000-0003-1955-0750",
+  "photo": "/media/2020/11/joao-moutinho.webp"
+ },
+ {
+  "id": 7015,
+  "name": "Luís Sanhudo",
+  "role": "Head of Digital Transformation",
+  "linkedin": "https://www.linkedin.com/in/lpnsanhudo",
+  "orcid": "https://orcid.org/0000-0002-2578-6981",
+  "photo": "/media/2020/11/luis-sanhudo-1.webp"
+ },
+ {
+  "id": 8402,
+  "name": "Vanessa Tavares",
+  "role": "Head of Sustainability",
+  "linkedin": "https://www.linkedin.com/in/vanessa-tavares-7006189/",
+  "orcid": "https://orcid.org/0000-0002-8111-6990",
+  "photo": "/media/2020/11/vanessa-tavares-1.webp"
+ },
+ {
+  "id": 3914,
+  "name": "Ana Margarida Amândio",
+  "role": "AI Researcher",
+  "linkedin": null,
+  "orcid": "https://orcid.org/0000-0002-6340-0648",
+  "photo": "/media/2020/11/margarida-amandio.webp"
+ },
+ {
+  "id": 6480,
+  "name": "Nycolas Glerean",
+  "role": "BIM Programming Specialist",
+  "linkedin": "https://www.linkedin.com/in/nycolas-glerean-121477183/",
+  "orcid": null,
+  "photo": "/media/2020/11/nycolas-glerean.webp"
+ },
+ {
+  "id": 7344,
+  "name": "Ana Catarina Rocha",
+  "role": "Digital Transition Specialist",
+  "linkedin": "https://www.linkedin.com/in/anacatarinarocha/",
+  "orcid": "https://orcid.org/0000-0002-3403-1417",
+  "photo": "/media/2020/11/ana-catarina-rocha.webp"
+ },
+ {
+  "id": 7796,
+  "name": "Débora Pinto",
+  "role": "Standardization Specialist",
+  "linkedin": "https://www.linkedin.com/in/deborasuelipinto/",
+  "orcid": "https://orcid.org/0000-0001-9468-7779",
+  "photo": "/media/2020/11/debora-pinto-1.webp"
+ },
+ {
+  "id": 9406,
+  "name": "Luís Jacques",
+  "role": "BIM & AI Programming Specialist",
+  "linkedin": "https://www.linkedin.com/in/lu%C3%ADs-jacques-151b27192/",
+  "orcid": "https://orcid.org/0000-0002-0789-9368",
+  "photo": "/media/2020/11/luis-jacques-1.webp"
+ },
+ {
+  "id": 3916,
+  "name": "Sofia Feist",
+  "role": "BIM & AI Developer",
+  "linkedin": "https://www.linkedin.com/in/sofia-feist/",
+  "orcid": "https://orcid.org/0000-0003-2525-2899",
+  "photo": "/media/2020/11/sofia-feist-alta.webp"
+ },
+ {
+  "id": 9680,
+  "name": "Hélder Silva",
+  "role": "Digital Twin & IoT Developer",
+  "linkedin": "https://www.linkedin.com/in/heldersilvaengenharia/",
+  "orcid": "https://orcid.org/0009-0001-9366-4855",
+  "photo": "/media/2024/04/helder-silva.webp"
+ },
+ {
+  "id": 9750,
+  "name": "Rita Mendonça",
+  "role": "Sustainable Urban Planner",
+  "linkedin": "https://www.linkedin.com/in/ritammendonca11/",
+  "orcid": "https://orcid.org/0000-0002-5298-7199",
+  "photo": "/media/2024/05/rita-mendonca.webp"
+ },
+ {
+  "id": 10366,
+  "name": "Carolina Rua",
+  "role": "BIM & Standardization Specialist",
+  "linkedin": "https://www.linkedin.com/in/carolina-br%C3%A1s-rua-aa6026190/",
+  "orcid": "https://orcid.org/0009-0002-3359-5453",
+  "photo": "/media/2024/11/carolina-rua-baixa.webp"
+ },
+ {
+  "id": 10525,
+  "name": "Gonçalo Carvalho",
+  "role": "BIM & AI Developer",
+  "linkedin": "https://www.linkedin.com/in/goncarvalho/",
+  "orcid": null,
+  "photo": "/media/2024/11/goncalo-carvalho-baixa.webp"
+ },
+ {
+  "id": 11073,
+  "name": "Inês Ribeiro",
+  "role": "Sustainability Specialist",
+  "linkedin": "https://www.linkedin.com/in/ines-csribeiro/",
+  "orcid": null,
+  "photo": "/media/2025/03/ines-ribeiro-1.webp"
+ },
+ {
+  "id": 11506,
+  "name": "Daniel Silva",
+  "role": "Sustainability Specialist",
+  "linkedin": "https://www.linkedin.com/in/daniel-silva-07548114b/",
+  "orcid": "https://orcid.org/0009-0004-0727-3797",
+  "photo": "/media/2025/07/daniel-silva-1.webp"
+ },
+ {
+  "id": 11716,
+  "name": "Cristina Paixão",
+  "role": "BIM & Standardization Specialist",
+  "linkedin": "https://www.linkedin.com/in/cristinapaixaoarq/",
+  "orcid": null,
+  "photo": "/media/2025/08/cristina-paixao-1.webp"
+ },
+ {
+  "id": 3917,
+  "name": "Pedro Fonseca Ferreira",
+  "role": "Programming & Integration Specialist",
+  "linkedin": "https://www.linkedin.com/in/pedro-mpf-ferreira/",
+  "orcid": "https://orcid.org/0000-0003-4187-5033",
+  "photo": "/media/2020/11/pedro-ferreira.webp"
+ },
+ {
+  "id": 9290,
+  "name": "Mário Dixo de Sousa",
+  "role": "Virtual and Augmented Reality Specialist",
+  "linkedin": "https://www.linkedin.com/in/m%C3%A1rio-dixo-de-sousa-257a33206/",
+  "orcid": null,
+  "photo": "/media/2020/11/mario-sousa.webp"
+ },
+ {
+  "id": 8554,
+  "name": "Fábio Dinis",
+  "role": "Virtual and Augmented Reality Specialist",
+  "linkedin": "https://www.linkedin.com/in/fmdinis",
+  "orcid": "https://orcid.org/0000-0003-4017-7962",
+  "photo": "/media/2022/06/fabio-dinis.webp"
+ },
+ {
+  "id": 9727,
+  "name": "Daniel Pereira",
+  "role": "Full-Stack Developer",
+  "linkedin": "https://www.linkedin.com/in/danielpereira93/",
+  "orcid": null,
+  "photo": "/media/2024/05/daniel-pereira-.webp"
+ },
+ {
+  "id": 12260,
+  "name": "António Lopes",
+  "role": "AI Developer",
+  "linkedin": "https://www.linkedin.com/in/antoniojglopes/",
+  "orcid": null,
+  "photo": "/media/2026/05/antonio-lopes.webp"
+ },
+ {
+  "id": 7656,
+  "name": "Leonor Santos",
+  "role": "Business Developer",
+  "linkedin": "https://www.linkedin.com/in/leonor-moura-dos-santos-026b11a5/",
+  "orcid": "https://orcid.org/0009-0009-5502-8389",
+  "photo": "/media/2020/11/leonor-santos.webp"
+ },
+ {
+  "id": 7706,
+  "name": "Sofia Bastos",
+  "role": "Project and Finance Manager",
+  "linkedin": "https://www.linkedin.com/in/ana-sofia-pinto-bastos-1bb891146",
+  "orcid": null,
+  "photo": "/media/2020/11/sofia-bastos.webp"
+ },
+ {
+  "id": 12424,
+  "name": "Raquel Marques",
+  "role": "Técnica de Gestão Financeira",
+  "linkedin": "https://www.linkedin.com/in/raquel-marques-0708mar/",
+  "orcid": null,
+  "photo": "/media/2026/08/raquel-marques.webp"
+ },
+ {
+  "id": 11919,
+  "name": "Joana Bateira",
+  "role": "Técnica Administrativa e de Compras",
+  "linkedin": "https://www.linkedin.com/in/joana-bateira/",
+  "orcid": null,
+  "photo": "/media/2026/01/joana-bateira.webp"
+ },
+ {
+  "id": 3905,
+  "name": "Lurdes Laranjeira",
+  "role": "Marketing & Communication Officer",
+  "linkedin": "https://www.linkedin.com/in/lurdes-laranjeira",
+  "orcid": null,
+  "photo": "/media/2020/11/lurdes-laranjeira.webp"
+ }
+]

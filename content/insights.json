@@ -1,0 +1,434 @@
+[
+ {
+  "id": 12437,
+  "slug": "plataforma-formativa-contextos-mineiros",
+  "date": "2026-08-31T16:48:08",
+  "modified": "2026-08-31T17:26:15",
+  "image": {
+   "src": "/media/2026/08/entrada-epos-insight-plataforma-formativa.webp",
+   "alt": "entrada epos insight Plataforma Formativa",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 11649,
+  "slug": "monitorizacao-automatica-da-construcao",
+  "date": "2025-08-07T14:44:15",
+  "modified": "2025-08-07T15:20:24",
+  "image": {
+   "src": "/media/2025/08/targetx-insight-1.webp",
+   "alt": "TargetX",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 11510,
+  "slug": "implementacao-bim-porto-mos",
+  "date": "2025-07-09T12:26:42",
+  "modified": "2025-07-09T15:45:37",
+  "image": {
+   "src": "/media/2025/07/implementacao-bim-na-camara-municipal-de-porto-de-mos-metodologia-e-boas-praticas.webp",
+   "alt": "Implementação BIM na Câmara Municipal de Porto de Mós – Metodologia e Boas Práticas",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 11276,
+  "slug": "bimonitor-realidade-aumentada",
+  "date": "2025-05-20T14:58:48",
+  "modified": "2025-05-21T17:47:22",
+  "image": {
+   "src": "/media/2025/05/insight-bimonitor-realidade-aumentada.webp",
+   "alt": "bimonitor realidade aumentada",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 10936,
+  "slug": "digitalizacao-aguas-scan-to-bim",
+  "date": "2025-02-25T14:18:03",
+  "modified": "2025-02-25T15:34:08",
+  "image": {
+   "src": "/media/2025/02/aguas-scan-to-bim.webp",
+   "alt": "Aguas Scan to BIM",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 10884,
+  "slug": "publicado-livro-circular-economy",
+  "date": "2025-02-07T14:37:31",
+  "modified": "2025-02-07T14:37:32",
+  "image": {
+   "src": "/media/2025/02/livro-cost-2.webp",
+   "alt": "Livro Cost 2",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 10011,
+  "slug": "artigo-aguas-scan-to-bom",
+  "date": "2024-07-04T11:36:13",
+  "modified": "2024-07-31T12:59:48",
+  "image": {
+   "src": "/media/2024/07/artigo-addp-revista-construcao-magazine.webp",
+   "alt": "artigo scan-to-bim revista construcao magazine",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 9796,
+  "slug": "repositorio-digital-modelos-bim-tuneis-ferroviarios",
+  "date": "2024-05-22T15:20:26",
+  "modified": "2024-05-27T10:26:43",
+  "image": {
+   "src": "/media/2024/05/modelos-bim-tuneis-ferroviarios.webp",
+   "alt": "Modelos BIM tuneis ferroviarios",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 9657,
+  "slug": "construcao-nuvens-de-pontos-bim-watchbuilt",
+  "date": "2024-03-14T11:54:11",
+  "modified": "2024-03-28T10:09:17",
+  "image": {
+   "src": "/media/2024/03/watchbuilt-nuvens-de-pontos-e-bim.webp",
+   "alt": "watchbuilt nuvens de pontos e BIM",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 9479,
+  "slug": "livro-roadmap-towards-circularity",
+  "date": "2023-12-07T14:31:05",
+  "modified": "2023-12-07T16:40:19",
+  "image": {
+   "src": "/media/2023/12/livro-roadmap-towards-circularity.webp",
+   "alt": "Livro Roadmap towards Circularity",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 9388,
+  "slug": "artigo-public-procurement-data",
+  "date": "2023-10-26T15:17:19",
+  "modified": "2023-10-26T15:17:20",
+  "image": {
+   "src": "/media/2023/10/artigo-public-procurement-data.webp",
+   "alt": "artigo public procurement data",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 9298,
+  "slug": "artigo-natural-user-interfaces",
+  "date": "2023-10-12T11:35:54",
+  "modified": "2023-10-12T11:35:55",
+  "image": {
+   "src": "/media/2023/10/natural-user-interfaces-artigo.webp",
+   "alt": "natural user interfaces artigo",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8974,
+  "slug": "portuguese-procurement-data-for-construction",
+  "date": "2023-03-31T09:43:23",
+  "modified": "2023-04-05T17:15:55",
+  "image": {
+   "src": "/media/2023/03/procurement-data-for-construction.webp",
+   "alt": "procurement data for construction",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8942,
+  "slug": "ventilated-dwellings",
+  "date": "2023-02-28T10:53:39",
+  "modified": "2023-02-28T10:53:41",
+  "image": {
+   "src": "/media/2023/02/ventilated-dwellings.webp",
+   "alt": "ventilated dwellings",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8869,
+  "slug": "air-barriers-apllication",
+  "date": "2022-12-30T13:46:16",
+  "modified": "2022-12-30T14:18:17",
+  "image": {
+   "src": "/media/2022/12/lca-and-lcc.webp",
+   "alt": "LCA and LCC",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8760,
+  "slug": "artigoconstruction-tasks",
+  "date": "2022-09-15T17:59:26",
+  "modified": "2022-09-15T17:59:28",
+  "image": {
+   "src": "/media/2022/09/artigo-construction-tasks.webp",
+   "alt": "artigo Construction Tasks",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8717,
+  "slug": "publicado-artigo-ventilated-dwellings",
+  "date": "2022-08-02T12:40:37",
+  "modified": "2022-08-03T11:40:29",
+  "image": {
+   "src": "/media/2022/08/dwellings.webp",
+   "alt": "dwellings",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8699,
+  "slug": "nuno-mangas-pt2030",
+  "date": "2022-07-22T10:07:45",
+  "modified": "2022-07-22T10:17:30",
+  "image": {
+   "src": "/media/2022/07/nuno-mangas-sobre-pt2030.webp",
+   "alt": "Nuno Mangas sobre PT2030",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8434,
+  "slug": "artigo-internet-of-things-systems",
+  "date": "2022-04-28T18:27:45",
+  "modified": "2022-04-28T18:27:48",
+  "image": {
+   "src": "/media/2022/04/artigo-internet-of-things-systems.webp",
+   "alt": "inartigo ternet-of-Things systems",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 8368,
+  "slug": "artigo-architectural-modularisation",
+  "date": "2022-03-16T13:21:38",
+  "modified": "2022-03-16T13:21:40",
+  "image": {
+   "src": "/media/2022/03/artigo-architectural-modularisation.webp",
+   "alt": "Architectural Modularisation",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7874,
+  "slug": "artigo-smart-pavement-data",
+  "date": "2021-12-29T11:56:33",
+  "modified": "2021-12-29T11:56:35",
+  "image": {
+   "src": "/media/2021/12/smart-pavement-data.webp",
+   "alt": "Smart Pavement Data",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7768,
+  "slug": "artigo-fuel-consumption-prediction",
+  "date": "2021-11-29T16:15:49",
+  "modified": "2021-11-29T16:15:52",
+  "image": {
+   "src": "/media/2021/11/fuel-consumption.webp",
+   "alt": "Fuel Consumption Prediction",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7482,
+  "slug": "novo-normal-na-construcao",
+  "date": "2021-09-30T12:08:19",
+  "modified": "2021-09-30T12:29:50",
+  "image": {
+   "src": "/media/2021/09/novo-normal-na-construcao.webp",
+   "alt": "novo normal na construção",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7434,
+  "slug": "artigo-geotecnia-pavimentos-vias-ferreas",
+  "date": "2021-08-30T16:30:11",
+  "modified": "2021-08-30T16:30:13",
+  "image": {
+   "src": "/media/2021/08/artigo-geotecnia.webp",
+   "alt": "Artigo Geotecnia",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7285,
+  "slug": "artigo-intelligent-planning-publicado",
+  "date": "2021-07-30T14:58:45",
+  "modified": "2021-07-30T14:58:48",
+  "image": {
+   "src": "/media/2021/07/artigo-intelligent-planning.webp",
+   "alt": "Artigo Intelligent Planning",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7270,
+  "slug": "vencedores-bim-2021",
+  "date": "2021-07-30T11:49:17",
+  "modified": "2021-07-30T11:50:20",
+  "image": {
+   "src": "/media/2021/07/edicao-2021-do-premio-excelencia-bim.webp",
+   "alt": "Edição 2021 do Prémio Excelência BIM",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7168,
+  "slug": "publicado-artigo-transportation",
+  "date": "2021-06-30T14:41:07",
+  "modified": "2021-07-01T11:33:44",
+  "image": {
+   "src": "/media/2021/06/artigo-elsevier-transportation-engineering.webp",
+   "alt": "Artigo Manuel Parente Elsevier revista Transportation Engineering",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7070,
+  "slug": "projeto-advanced-technologies-for-industry",
+  "date": "2021-05-21T16:52:56",
+  "modified": "2021-05-21T16:52:58",
+  "image": {
+   "src": "/media/2021/05/projeto-advanced-technologies-for-industry.webp",
+   "alt": "projeto Advanced Technologies for Industry",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 7063,
+  "slug": "otimizacao-reabilitacao-de-pavimentos",
+  "date": "2021-05-20T16:15:26",
+  "modified": "2021-05-31T19:32:28",
+  "image": {
+   "src": "/media/2021/05/reabilitacao-de-pavimentos.webp",
+   "alt": "otimização de reabilitação de pavimentos",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 6557,
+  "slug": "unesco-divulga-2-relatorio-de-engenharia",
+  "date": "2021-03-11T12:25:52",
+  "modified": "2021-03-11T12:25:55",
+  "image": {
+   "src": "/media/2021/03/capa-relatorio-engenharia-unesco.webp",
+   "alt": "Capa do 2º Relatório de Engenharia publicado pela UNESCO",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 6446,
+  "slug": "techonbuilt-bim-mais-que-buzzword",
+  "date": "2021-02-25T17:14:39",
+  "modified": "2021-02-25T17:27:32",
+  "image": {
+   "src": "/media/2021/01/techonbuilt-podcast-transicao-digital-construcao.webp",
+   "alt": "Entradada Video Podcast TechOnBUILT o podacasta da transição digital na construção",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 6402,
+  "slug": "techonbuilt-podcast-transicao-digital-1epis",
+  "date": "2021-01-29T11:45:53",
+  "modified": "2021-01-29T11:45:57",
+  "image": {
+   "src": "/media/2021/01/techonbuilt-podcast-transicao-digital-construcao.webp",
+   "alt": "Entradada Video Podcast TechOnBUILT o podacasta da transição digital na construção",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 6283,
+  "slug": "manual-construcao-estradas-estrategia-ecologica",
+  "date": "2021-01-06T16:48:25",
+  "modified": "2021-01-06T18:33:37",
+  "image": {
+   "src": "/media/2021/01/manuais-encpe-estrategica-ecologica-builtcolab.webp",
+   "alt": "Estratégia Ecológica para a Construção de Estradas no âmbito da Estratégia ENCPE 2020",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 5564,
+  "slug": "guia-implementacao-bim-autarquias",
+  "date": "2020-11-30T15:23:25",
+  "modified": "2021-02-25T14:12:19",
+  "image": {
+   "src": "/media/2020/11/bim-autarquias-implementacao.webp",
+   "alt": "Guia Implementação BIM nas Autarquias",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 5563,
+  "slug": "estrategia-portugal-2030",
+  "date": "2020-11-30T15:08:53",
+  "modified": "2020-11-30T15:08:55",
+  "image": {
+   "src": "/media/2020/11/documento-estrategia-portugal-2030.webp",
+   "alt": "Estratégia Portugal 2030",
+   "width": 1200,
+   "height": 630
+  }
+ },
+ {
+  "id": 3015,
+  "slug": "projeto-optimize-propoe-otimizar-o-design-e-construcao-de-projetos-complexos",
+  "date": "2020-11-08T11:27:55",
+  "modified": "2020-12-09T19:23:03",
+  "image": {
+   "src": "/media/2020/11/image3-1.webp",
+   "alt": "Simulação Cupula de um Edificio utilizando Projeto OPTIMIZE",
+   "width": 1080,
+   "height": 719
+  }
+ }
+]
