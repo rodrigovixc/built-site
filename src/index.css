@@ -44,6 +44,13 @@
   --shadow-card: 0 18px 50px -24px var(--shadow-color);
 
   --animate-ticker: ticker 40s linear infinite;
+  --animate-panel-in: panel-in 0.28s cubic-bezier(0.2, 0.8, 0.2, 1);
+  @keyframes panel-in {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+  }
   @keyframes ticker {
     to {
       transform: translateX(-50%);
