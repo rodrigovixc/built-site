@@ -50,6 +50,21 @@ const es: Messages = {
     agenda: 'Agenda',
   },
 
+  nav: {
+    knowledge: 'Conocimiento',
+    allProjects: 'Todos los proyectos',
+    allServices: 'Ver todos los servicios',
+    latest: 'Lo más reciente',
+    insightsDesc: 'Casos de aplicación y artículos técnicos.',
+    newsDesc: 'La actividad del laboratorio y del sector.',
+    podcastDesc: 'Conversaciones sobre la transición digital.',
+    whoWeAreDesc: 'Misión, agenda de I+D y clústeres.',
+    teamDesc: 'Las personas del laboratorio.',
+    associatesDesc: 'Universidades, laboratorios y empresas.',
+    governanceDesc: 'Asamblea general y consejos.',
+    careersDesc: 'Vacantes abiertas y candidaturas.',
+  },
+
   menu: {
     groupAbout: 'Sobre BUILT',
     groupPlatforms: 'Plataformas',

@@ -50,6 +50,21 @@ const en: Messages = {
     agenda: 'Events',
   },
 
+  nav: {
+    knowledge: 'Knowledge',
+    allProjects: 'All projects',
+    allServices: 'See all services',
+    latest: 'Latest',
+    insightsDesc: 'Use cases and technical articles.',
+    newsDesc: 'What the lab and the sector are up to.',
+    podcastDesc: 'Conversations on the digital transition.',
+    whoWeAreDesc: 'Mission, R&D agenda and clusters.',
+    teamDesc: 'The people behind the lab.',
+    associatesDesc: 'Universities, laboratories and companies.',
+    governanceDesc: 'General assembly and boards.',
+    careersDesc: 'Open positions and applications.',
+  },
+
   menu: {
     groupAbout: 'About BUILT',
     groupPlatforms: 'Platforms',

@@ -53,6 +53,21 @@ const pt = {
     agenda: 'Agenda',
   },
 
+  nav: {
+    knowledge: 'Conhecimento',
+    allProjects: 'Todos os projetos',
+    allServices: 'Ver todos os serviços',
+    latest: 'Mais recente',
+    insightsDesc: 'Casos de aplicação e artigos técnicos.',
+    newsDesc: 'A atividade do laboratório e do setor.',
+    podcastDesc: 'Conversas sobre a transição digital.',
+    whoWeAreDesc: 'Missão, agenda de I&D e clusters.',
+    teamDesc: 'As pessoas do laboratório.',
+    associatesDesc: 'Universidades, laboratórios e empresas.',
+    governanceDesc: 'Assembleia geral e conselhos.',
+    careersDesc: 'Vagas abertas e candidaturas.',
+  },
+
   menu: {
     groupAbout: 'O Built',
     groupPlatforms: 'Plataformas',
